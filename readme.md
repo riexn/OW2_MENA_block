@@ -1,7 +1,7 @@
 # Usage
 
-Run `block.bat` to block the connection to MENA servers.
-Run `unblock.bat` to unblock the connection to MENA servers.
+* Run `block.bat` to block the connection to MENA servers.
+* Run `unblock.bat` to unblock the connection to MENA servers.
 
 **Make sure to run the script as an administrator, or it won't work**
 ```
